@@ -32,17 +32,14 @@
 <br />
 <br />
 
-
 ---
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SakibNoman&show_icons=true&hide_border=true" />
-  <br />
-  <br />
-
----
+<br />
+<br />
 ---
   
-  <img align="left" alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakibNoman&show_icons=true&hide_border=true" />
+  <img  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakibNoman&show_icons=true&hide_border=true" />
 
 [facebook]: https://www.facebook.com/SakibChunati
 [twitter]: https://twitter.com/SakibNoman2
