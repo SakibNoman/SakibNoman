@@ -41,10 +41,7 @@
 ---
   
   <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakibNoman&show_icons=true" />
-  <br />
-<br />
-  
----
+
 
 [facebook]: https://www.facebook.com/SakibChunati
 [twitter]: https://twitter.com/SakibNoman2
